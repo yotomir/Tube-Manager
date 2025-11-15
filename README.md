@@ -1,4 +1,4 @@
-# Tube-Manager
+# Tube Manager
 An Android application that contains YouTube Clients
 
 Apps: Tubular, NewPipe and LibreTube
