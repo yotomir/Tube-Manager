@@ -16,6 +16,10 @@ How to install?:
 (Step 4) Click Open
 
 
+
+
+
+
 How to install app via Tube Manager?:
 
 (Step 1) Select an application and click
