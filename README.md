@@ -21,13 +21,8 @@ How to install?:
 
 
 How to install app via Tube Manager?:
-
 (Step 1) Select an application and click
-
 (Step 2) Scroll down and select a version
-
 (Step 3) Download and open the file
-
 (Step 4) Click Install
-
 (Step 5) Click Open
